@@ -4,17 +4,17 @@ import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.support.wearable.activity.WearableActivity;
-import android.util.Log;
-import android.view.View;
-import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * This project is licensed under the terms of the BSD 3-Clause License.
+ */
 public class MainActivity extends WearableActivity {
 
     /** Liste mit allen Sensoren. */
