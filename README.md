@@ -12,6 +12,8 @@ found on the device in a ListView.
 
 ![Screenshot 2](screenshot_2.png)
 
+Screenshots were taken from emulator.
+
 <br>
 
 ----
