@@ -1,7 +1,12 @@
 # WearOS-App: "Sensor-Liste"
 
 Android-Studio-Project for a WearOS-App; the app shows simply the names of all sensors
-found on the device in a ListView.
+found on the device in a [ListView](https://developer.android.com/reference/android/widget/ListView) 
+element.
+
+<br>
+
+Identifiers (names for classes, variables and methods), UI texts and (JavaDoc) comments are in German only.
 
 <br>
 
