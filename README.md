@@ -10,6 +10,10 @@ Identifiers (names for classes, variables and methods), UI texts and (JavaDoc) c
 
 <br>
 
+See also [this repository](https://github.com/MDecker-MobileComputing/WearOS_TemperaturSensor/) for an example app that reads out the ambient temperature from a sensor built-into the smartwatch.
+
+<br>
+
 ----
 ## Screenshots
 
