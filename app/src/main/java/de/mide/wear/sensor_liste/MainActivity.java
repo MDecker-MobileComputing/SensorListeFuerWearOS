@@ -29,6 +29,7 @@ public class MainActivity extends WearableActivity {
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -47,7 +48,6 @@ public class MainActivity extends WearableActivity {
                         "Anzahl Sensoren: " + sensorNamenListe.size(),
                         Toast.LENGTH_LONG);
         toast.show();
-
 
         setAmbientEnabled(); // Enables Always-on
     }
